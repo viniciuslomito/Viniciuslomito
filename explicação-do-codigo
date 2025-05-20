@@ -1,2 +1,2 @@
 # Primeiro importamos as bibliotecas [ sys, pygame]
-#
+# Depos iniciamos a biblioteca e criamos as dimensões da tela, no caso [(x =400, y = 300)]
